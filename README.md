@@ -4,3 +4,4 @@
 * [链表](/DaIRedis/linkelist.md)
 * [字典](/DaIRedis/dict.md)
 * [跳跃表](/DaIRedis/zskiplist.md)
+* [整数集合](/DaIRedis/intset.md)
