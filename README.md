@@ -2,3 +2,4 @@
 
 * [简单动态字符串](/DaIRedis/SDS.md)
 * [链表](/DaIRedis/linkelist.md)
+* [字典](/DaIRedis/dict.md)

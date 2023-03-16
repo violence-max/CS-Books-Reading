@@ -1,5 +1,0 @@
-* [REDIS](#Redis)
-
-# Redis
-* [简单动态字符串](/DaIRedis/SDS.md)
-* [链表](/DaIRedis/linkelist.md)
