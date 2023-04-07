@@ -6,3 +6,4 @@
 * [跳跃表](/DaIRedis/zskiplist.md)
 * [整数集合](/DaIRedis/intset.md)
 * [压缩列表](/DaIRedis/ziplist.md)
+* [对象](/DaIRedis/object.md)
